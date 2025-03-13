@@ -1,7 +1,7 @@
-# 🤖 AI Hallucination Analysis Tool
+#  AI Hallucination Analysis Tool
 
 
-## 🌟 Overview
+##  Overview
 
 The AI Hallucination Analysis Tool is a sophisticated platform designed to study and visualize how large language models (specifically Google's Gemini) respond to hallucination-prone questions. By generating multiple responses to the same prompt and analyzing their consistency, we can better understand when and how AI models might hallucinate or generate fictional information.
 
